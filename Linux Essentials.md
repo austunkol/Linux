@@ -151,3 +151,19 @@ Add Ali to devops group
 gpasswd -d ali devops
 Remove ali from devops group
 ```
+# Package Management
+
+## Package formats
+
+### RPM packages
+- RPM, the RedHat Package Manager, is a powerful package manager that you can use to install, update and remove packages.
+
+### DEB (.deb) packages: 
+- This package format is the default on Debian GNU/Linux, where dselect, and, nowadays more common, aptitude, is the standard tool for managing the packages.
+
+### Source packages: 
+- The largest part of Linux programs is Free/Open Source, so source packages are available for these programs.
+
+``` Quiz```
+- ``Which is NOT a valid binary software package format in Linux?``
+    - .exe 
