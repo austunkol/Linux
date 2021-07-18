@@ -101,7 +101,7 @@ Tips= The Major difference is FIND is for searching files and directories using 
 
 - ``You can create your own user-defined variable, with the syntax: VARIABLE_NAME= variable_value``
 
-![1e.png](./images/1e.png)
+![1e.png](./Images/1e.png)
 
 ## PATH
 - PATH is displayed with the echo command
